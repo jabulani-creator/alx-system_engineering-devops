@@ -1,0 +1,15 @@
+total 16
+d--x--x--x 8 root root  260 Jun 12 04:44 .
+drwx------ 1 root root 4096 Jun 12 04:44 ..
+d--x--x--x 2 root root 4096 Jun  7 09:58 0x00-shell_basics
+d--x--x--x 2 root root 4096 Jun  8 13:28 0x01-shell_permissions
+drwxr-xr-x 2 root root  198 Jun 12 04:44 0x02-shell_redirections
+-rw-r--r-- 1 root root   12 Jun 12 04:36 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+d--x--x--x 8 root root  166 Jun 12 04:37 .git
+---x--x--x 1 root root    0 Jun  8 04:32 hello
+---x--x--x 1 root root    0 Jun  7 08:24 index1.html
+lrwxrwxrwx 1 root root    7 Jun 12 03:43 __ls__ -> /bin/ls
+-rw-r--r-- 1 root root    0 Jun 12 04:44 ls_cwd_content
+drwxr-x--x 2 root root    6 Jun  8 05:42 my_dir
+---x--x--x 1 root root    0 Jun  8 05:24 olleh
+d--x--x--x 3 root root   16 Jun  7 09:07 welcome
